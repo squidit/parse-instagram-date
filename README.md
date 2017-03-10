@@ -1,5 +1,6 @@
-# parse-instagram-date
-Parse Instagram timestamp to Date object
+# parse-instagram-date [![Build Status](https://travis-ci.org/squidit/parse-instagram-date.svg?branch=master)](https://travis-ci.org/squidit/parse-instagram-date) ![[Depencies status](https://david-dm.org/squidit/parse-instagram-date/)](https://david-dm.org/squidit/parse-instagram-date.svg) [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
+
+> Parse Instagram timestamp to Date object
 
 ### Install
 `npm install --save parse-instagram-date`
