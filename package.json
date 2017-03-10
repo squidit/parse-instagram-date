@@ -1,0 +1,37 @@
+{
+  "name": "parse-instagram-date",
+  "version": "1.0.0",
+  "description": "Parse Instagram timestamp to Date object",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha -- -R spec",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "it"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squidit/parse-instagram-date.git"
+  },
+  "keywords": [
+    "instagram",
+    "date",
+    "node"
+  ],
+  "author": "Squid",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/squidit/parse-instagram-date/issues"
+  },
+  "homepage": "https://github.com/squidit/parse-instagram-date#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0"
+  }
+}
